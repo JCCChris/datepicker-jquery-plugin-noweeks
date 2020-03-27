@@ -1,4 +1,6 @@
-https://www.eyecon.ro/datepicker/ Datepicker without the week numbers.
+Fork of https://www.eyecon.ro/datepicker/ 
+
+Datepicker without the week numbers.
 
     <script type="text/javascript" src="js/datepicker_noweeks.js"></script>
 
